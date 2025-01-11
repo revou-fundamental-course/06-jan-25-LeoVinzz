@@ -10,7 +10,7 @@
     border-radius: 50%;
     height: 50px;
     width: 50px;
-    background-image: url(https://picsum.photos/200);
+    background-image: url("img/Lorem.jpg");
     background-size: cover;
 }
 
@@ -35,7 +35,7 @@ nav > a {
 
 .banner-image {
     height: 450px;
-    background-image: url(https://picsum.photos/1000);
+    background-image: url("img/Road.jpg");
     background-size: cover;
     background-position: center;
 }
